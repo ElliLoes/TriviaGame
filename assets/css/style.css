@@ -33,3 +33,23 @@ body {
     display: block;
 }
 
+.time {
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+button {
+    margin-bottom: 50px;
+    font-size: 30px;
+    margin-top: 50px;
+    background-color: hotpink;
+}
+
+#results {
+    margin-top: 30px;
+}
+
+#results p {
+    margin-top:30px;
+}
+
